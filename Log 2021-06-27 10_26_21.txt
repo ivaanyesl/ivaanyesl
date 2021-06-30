@@ -1,0 +1,4 @@
+nRF Connect, 2021-06-27
+No name (48:72:AF:3C:0B:74)
+V	10:19:14.819	Connecting to 48:72:AF:3C:0B:74...
+D	10:19:14.819	gatt = device.connectGatt(autoConnect = true, TRANSPORT_LE, preferred PHY = LE 1M)
